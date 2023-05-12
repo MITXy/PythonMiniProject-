@@ -34,6 +34,3 @@ Each project directory may also contain additional instructions for running the 
 
 This repository is a personal project, but contributions and suggestions are always welcome. If you have an idea for a mini project you would like to see added to the repository, feel free to open an issue or submit a pull request.
 
-## License
-
-The code in this repository is licensed under the MIT License. Feel
